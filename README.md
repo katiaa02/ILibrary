@@ -22,11 +22,10 @@ Ce projet vise à combiner l’accessibilité d’une librairie numérique avec 
 - Backend : PHP
 - Base de données : MySQL
 
-## 💡 Fonctionnalités principales
+##  Fonctionnalités principales
 - Système d’authentification (connexion/inscription)
 - Ajout, suppression et modification de livres
 - Recommandation de livres personnalisées
 - Filtrage et recherche avancée
 
-## 📦 Installation locale
 
